@@ -1,14 +1,13 @@
-# JCPM - ESD Melo
+**Technician | Web Developer | Cybersecurity & IT | Audio Engineer**
 
-**Technician | Web Developer | Audio Engineer**
-
-I am a versatile technician and developer with a strong foundation in hardware optimization, web development, and digital audio production. I specialize in bridging the gap between hardware limitations and software performance, with practical experience in system administration and component-level troubleshooting.
+I am a versatile technician and developer with a strong foundation in secure IT infrastructure, hardware optimization, web development, and digital audio production. With a diploma in Cybersecurity, I bring a security-first approach to system administration, specializing in bridging the gap between hardware limitations, secure environments, and software performance.
 
 ### 🛠 Core Competencies
 
-**Hardware & IT Infrastructure**
-*   **System Optimization:** Advanced hardware configuration, PC Maintenance.
-*   **System Administration:** Windows/Linux (Ubuntu) environment navigation, dual-boot configuration, and terminal operations.
+**Cybersecurity & IT Infrastructure**
+*   **Cybersecurity Foundations:** Knowledge of digital security principles, threat mitigation, and secure system practices 
+*   **System Optimization:** Advanced hardware configuration, thermal management, and power-limit tuning for high-performance computing.
+*   **System Administration:** Linux (Ubuntu) environment navigation, dual-boot configuration, and secure terminal operations.
 *   **PC Repair & Maintenance:** Hardware diagnostics, component upgrades, and troubleshooting.
 
 **Software & Web Development**
