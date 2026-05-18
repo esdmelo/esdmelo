@@ -2,7 +2,7 @@
 
 **Technician | Web Developer | Cybersecurity & IT | Audio Engineer**
 
-I am a versatile technician and developer with a strong foundation in secure IT infrastructure, hardware optimization, web development, and digital audio production. With a diploma in Cybersecurity, I bring a security-first approach to system administration, specializing in bridging the gap between hardware limitations, secure environments, and software performance.
+I am a versatile technician and developer with a strong foundation in secure IT infrastructure, hardware optimization, web development, and digital audio production and Cybersecurity, I bring a security-first approach to system administration, specializing in bridging the gap between hardware limitations, secure environments, and software performance.
 
 ### 🛠 Core Competencies
 
