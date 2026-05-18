@@ -16,7 +16,7 @@ I am a versatile technician and developer with a strong foundation in hardware o
 *   **Version Control:** Utilizing Git and GitHub for project management and source code tracking.
 
 **Audio Production**
-*   **Studio Management:** Operating East Side Studios, overseeing the production and digital distribution of commercial tracks.
+*   **Studio Management:** Operating East Side Studios The Label (ESTL), overseeing the production and digital distribution of commercial tracks.
 *   **Audio Engineering:** Specialized production, Profesional Mastering and Mixing Tracks.
 
 ---
